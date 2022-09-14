@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- *   * main - sum even fibonacci numbers under 4 million.
- *     * Return: Nothing.
- *       */
+ * main - sum even fibonacci numbers under 4 million.
+ * Return: Nothing.
+ */
 int main(void)
 {
 		unsigned long count, i, j, k, sums;
